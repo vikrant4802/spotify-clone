@@ -1,0 +1,35 @@
+.bg-black{
+    background-color: black;
+}
+.invert{
+   filter: invert(1);
+}
+.flex{
+    display: flex;
+}
+.align-items{
+    align-items: center;
+}
+.margin-5{
+    margin: 5px;
+}
+.padding{
+    padding: 20px;
+}
+
+/* For WebKit browsers (Chrome, Safari) */
+::-webkit-scrollbar {
+    width: 12px; /* Set the width of the scrollbar */
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: black; /* Set the color of the thumb (the draggable part of the scrollbar) */
+}
+
+::-webkit-scrollbar-track {
+    background-color: #333; /* Set the color of the track (the non-draggable part of the scrollbar) */
+}
+
+.pointer{
+    cursor: pointer;
+}
