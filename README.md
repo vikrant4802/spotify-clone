@@ -2,7 +2,7 @@
 
 Welcome to the **Spotify Clone**, a web application that aims to replicate the user experience of the popular music streaming platform, Spotify. This project showcases the essential features of a music player, all wrapped in a sleek and modern design.
 
-Live at : [Stotify-Clone](https://play-spotify.freewebhostmost.com/)
+Live at : [https://play-spotify.freewebhostmost.com/](https://play-spotify.freewebhostmost.com/)
 
 ## Project Purpose 🎯
 
